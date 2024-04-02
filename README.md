@@ -1,11 +1,11 @@
 # Custom_RangeScale_Project
  Custom Html Input Range Scaling project
 User Steps:
-Move the cursor to select the desired range.
-Click on the "Submit" button.
-Upon clicking "Submit," a confirmation modal opens, prompting the user to submit the selected values.
-Click "Yes" to confirm submission.
-After confirming, a message is displayed indicating "Data sent to server," which fades out with an animation over a period of 5 seconds.
+1. Move the cursor to select the desired range.
+2. Click on the "Submit" button.
+3. Upon clicking "Submit," a confirmation modal opens, prompting the user to submit the selected values.
+4. Click "Yes" to confirm submission.
+5. After confirming, a message is displayed indicating "Data sent to server," which fades out with an animation over a period of 5 seconds.
 
 <img width="547" alt="image" src="https://github.com/shashankgopalakrishna/Custom_RangeScale_Project/assets/143437355/d9a55d9a-57a3-4b39-9e55-485ea9ff5703">
 
