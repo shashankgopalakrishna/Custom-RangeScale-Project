@@ -1,9 +1,10 @@
 # Custom_RangeScale_Project 
  Custom Html Input Range Scaling project
 
-## Used HTML, CSS, vanilla Javascript
+## Technologies 
+HTML, CSS, vanilla Javascript
  
-## User Steps:
+## User Operations: 
 1. Move the cursor to select the desired range.
 2. Click on the "Submit" button.
 3. Upon clicking "Submit," a confirmation modal opens, prompting the user to submit the selected values.
